@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Queexy</h1>
-<h3 align="center">🧑‍💻 I'm programmer!</h3>
+<h3 align="center">🖥️ I'm write code!</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
